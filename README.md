@@ -1,5 +1,5 @@
 # AINARI
-Hackathon - AINARI - image classification task to predict possible paddy disease
+Hackathon - UMHACKATHON 2021 - AINARI - A centralized system to monitor paddy field by using image classification method and data from IOT to predict possible upcoming disease with the help of Microsoft Azure.
 
 Our team with a member of 5 people designed a centralized paddy field monitoring system to predict and detect possible diseases and risks.
 ![map](https://user-images.githubusercontent.com/65883921/135128461-4948a6da-e38a-4174-a0f3-a64dd7b134a1.png)
